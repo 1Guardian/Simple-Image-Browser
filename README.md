@@ -6,7 +6,7 @@ This was my first real experience using the tkinter framework, and I didn't make
 
 ## Usage:
 python browser.py -h  -r [rows ]-c [columns] -d [directory]
-      -h : Displays help menu
+      <br>-h : Displays help menu
       -r : designates how many rows each image should be constrained to
       -c : designates how many columns each image should be constrained to
       -d : target directory
